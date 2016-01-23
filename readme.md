@@ -6,7 +6,7 @@
 
 ```
 curl -fsSL https://raw.githubusercontent.com/lwdgit/node-sass-installer/master/installer.js > installer.js
-curl -fsSL https://raw.githubusercontent.com/lwdgit/node-sass-installer/master/download.js
+curl -fsSL https://raw.githubusercontent.com/lwdgit/node-sass-installer/master/download.js > download.js
 node installer.js
 ```
 
