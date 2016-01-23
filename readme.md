@@ -5,7 +5,9 @@
 ## 用法
 
 ```
- node installer.js
+curl -fsSL https://raw.githubusercontent.com/lwdgit/node-sass-installer/master/installer.js > installer.js
+curl -fsSL https://raw.githubusercontent.com/lwdgit/node-sass-installer/master/download.js
+node installer.js
 ```
 
 > 暂不支持全局安装。
