@@ -1,6 +1,6 @@
 # node-sass安装器 
 
-> node-sass安装辅助工具, 通过git和libsass(https://github.com/sass/node-sass/releases)镜像实现。
+> node-sass安装辅助工具, 通过git和[libsass](https://github.com/sass/node-sass/releases)镜像实现。
 
 ## 用法
 
